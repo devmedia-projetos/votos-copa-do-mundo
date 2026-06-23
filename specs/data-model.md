@@ -31,3 +31,4 @@ erDiagram
     players ||--o{ votes : "receives"
 
 ```
+
